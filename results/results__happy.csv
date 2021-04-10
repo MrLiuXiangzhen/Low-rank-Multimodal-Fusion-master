@@ -1,0 +1,1 @@
+audio_hidden,video_hidden,text_hidden,audio_dropout,video_dropout,text_dropout,factor_learning_rate,learning_rate,rank,batch_size,weight_decay,Best Validation CrossEntropyLoss,Test CrossEntropyLoss,Test F1-score,Test Accuracy Score
